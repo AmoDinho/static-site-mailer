@@ -1,0 +1,11 @@
+{
+  "name": "static-site-mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AmoDinho/static-site-mailer.git",
+  "author": "Amo Moloko <u14284783@tuks.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.27.2"
+  }
+}
